@@ -19,7 +19,7 @@ const Footer = () => {
                 <a href="https://github.com/Nagarjuna-hub7102"><img src={githubLogo} alt=''/></a>
                 <a href="https://www.linkedin.com/in/nagarjuna-reddy-guttikonda-661b3330b/"><img  src={linkdinLogo} alt=''/></a>
                <a href="https://leetcode.com/u/nagarjunareddy7102/"><img src={leetcodeIcon} alt="" /></a>
-               <a href="/"><img src={geeksforgeeksLogo} alt="" /></a>
+               <a href="https://www.geeksforgeeks.org/user/nagarjunarvsyb/"><img src={geeksforgeeksLogo} alt="" /></a>
                <a href="/"><img  src={facebookLogo} alt=''/></a>
                <a href="/"> <img  src={instagramLogo} alt=''/></a>
                 </div>
